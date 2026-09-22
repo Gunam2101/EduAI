@@ -30,3 +30,4 @@ Thumbs.db
 
 # Temporary
 *.tmpbackend/eduai.db
+/backend/eduai.db
